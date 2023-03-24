@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.home-route-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.home {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 800;
+}
